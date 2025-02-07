@@ -3,7 +3,7 @@ Here's an example HTML code for creating a simple web page with name and details
 
  
 ```
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
