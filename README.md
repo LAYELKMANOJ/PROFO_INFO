@@ -1,6 +1,4 @@
-Here's an example HTML code for creating a simple web page with name and details, and connecting it with LinkedIn, Instagram, and GitHub:
-
-
+Here's an example HTML code for creating a simple web page with name and details, and connecting it with LinkedIn, Instagram, and GitHub
 
 
  
