@@ -31,8 +31,6 @@ Welcome to **Profile Adder**! This project allows users to easily add their prof
    ```
 2. **Open `index.html`** in a code editor or browser.  
 3. **Edit the HTML file** to add your profile details:  
-   
-   ```
 4. **Modify `styles.css`** to customize the appearance.  
 5. **Save & Open** the file in your browser to see your profile!  
 
