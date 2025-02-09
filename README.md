@@ -2,9 +2,6 @@
 
 Welcome to **Profile Adder**! This project allows users to easily add their profiles using a simple **HTML & CSS** setup. Customize your profile, style it, and showcase it effortlessly.
 
-## 📸 Demo
-![Preview](https://via.placeholder.com/800x400?text=Project+Preview)
-_(Replace with an actual screenshot of your project)_
 
 ---
 
@@ -30,7 +27,7 @@ _(Replace with an actual screenshot of your project)_
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/LAYELKMANOJ/profile-adder.git
+   git clone https://github.com/LAYELKMANOJ/(file name).git  
    ```
 2. **Open `index.html`** in a code editor or browser.  
 3. **Edit the HTML file** to add your profile details:  
