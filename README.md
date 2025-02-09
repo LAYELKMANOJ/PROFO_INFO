@@ -54,8 +54,7 @@ You can host this project using **GitHub Pages**:
 ## 📜 License
 This project is open-source under the **MIT License**. Feel free to contribute and improve it!  
 
-   <center> 💡 **Contributions & Feedback are Welcome!** 😊  </center> </P>
+<p align="center">💡 <b>Contributions & Feedback are Welcome!</b> 😊</p>
 
- THANK YOU 💕 </center>
-
+<p align="center">THANK YOU 💕</p>
 
