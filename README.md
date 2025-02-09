@@ -1,4 +1,4 @@
-# 📌 Profile Adder - Simple HTML & CSS Profile Page
+ # 📌 Profile Adder - Simple HTML & CSS Profile Page
 
 Welcome to **Profile Adder**! This project allows users to easily add their profiles using a simple **HTML & CSS** setup. Customize your profile, style it, and showcase it effortlessly.
 
@@ -54,8 +54,8 @@ You can host this project using **GitHub Pages**:
 ## 📜 License
 This project is open-source under the **MIT License**. Feel free to contribute and improve it!  
 
-💡 **Contributions & Feedback are Welcome!** 😊  
+   <center> 💡 **Contributions & Feedback are Welcome!** 😊  </center> </P>
 
-<center>THANK YOU 💕</center>
+ THANK YOU 💕 </center>
 
 
