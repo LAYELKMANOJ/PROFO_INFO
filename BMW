@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Car World</title>
+</head>
+<body style="background-image: url('https://wallpaperaccess.com/full/185444.jpg'); background-size: cover; text-align: center; color: white;">
+
+    <h1>🚗 Welcome to the World of Cars 🚘</h1>
+
+    <h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" width="60px" height="60px">
+        <a href="https://www.bmw.com" target="_blank" style="color: yellow; text-decoration: none;">BMW</a>
+    </h2>
+
+    <p>
+        <strong>Bayerische Motoren Werke AG</strong>, known as <i>BMW</i>, is a German automobile and motorcycle manufacturer, producing high-performance and luxury vehicles.
+    </p>
+
+    <h2>Popular Car Brands</h2>
+    <ul>
+        <li><a href="https://www.bmw.com" target="_blank">BMW</a></li>
+        <li><a href="https://www.audi.com" target="_blank">Audi</a></li>
+        <li><a href="https://www.mercedes-benz.com" target="_blank">Mercedes-Benz</a></li>
+        <li><a href="https://www.ferrari.com" target="_blank">Ferrari</a></li>
+        <li><a href="https://www.lamborghini.com" target="_blank">Lamborghini</a></li>
+        <li><a href="https://www.bugatti.com" target="_blank">Bugatti</a></li>
+    </ul>
+
+    <h3>Supercar of the Year 🏎️</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Lamborghini_Aventador_LP700-4.jpg" width="300px" height="180px" alt="Lamborghini">
+    <p>
+        The Lamborghini Aventador is one of the best supercars, featuring a V12 engine and an iconic design.
+    </p>
+
+    <h4>Car Enthusiast Books 📚</h4>
+    <p>
+        <cite>The Art of the Supercar by Stuart Codling</cite> <br>
+        <a href="https://www.amazon.com/Art-Supercar-Stuart-Codling/dp/076034437X" target="_blank"> Buy Here </a>
+    </p>
+
+    <h4>Author</h4>
+    <p>
+        <address>
+            By Layel K Manoj <br>
+            Contact: 123-456-7890
+        </address>
+    </p>
+
+</body>
+</html>
+
