@@ -1,20 +1,32 @@
-Lamborghini Cars
-Discover the ultimate luxury and performance cars by Lamborghini. Click the links below to explore and purchase.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lamborghini Cars</title>
+</head>
+<body>
+  <h1>Lamborghini Cars</h1>
+  <p>Discover the ultimate luxury and performance cars by Lamborghini. Click the links below to explore and purchase.</p>
 
-Lamborghini Aventador
-Lamborghini Aventador
-Buy Lamborghini Aventador
+  <h2>Lamborghini Aventador</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/2018_Lamborghini_Aventador_SV_Roadster_6.5.jpg" alt="Lamborghini Aventador" width="500">
+  <p><a href="https://www.lamborghini.com/en-en/models/aventador" target="_blank">Buy Lamborghini Aventador</a></p>
 
-Lamborghini Huracán
-Lamborghini Huracán
-Buy Lamborghini Huracán
+  <h2>Lamborghini Huracán</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/2019_Lamborghini_Huracan_LP_640-4_Performante_V10_5.2.jpg" alt="Lamborghini Huracán" width="500">
+  <p><a href="https://www.lamborghini.com/en-en/models/huracan" target="_blank">Buy Lamborghini Huracán</a></p>
 
-Lamborghini Urus
-Lamborghini Urus
-Buy Lamborghini Urus
+  <h2>Lamborghini Urus</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Lamborghini_Urus_IMG_0703.jpg" alt="Lamborghini Urus" width="500">
+  <p><a href="https://www.lamborghini.com/en-en/models/urus" target="_blank">Buy Lamborghini Urus</a></p>
 
-Lamborghini Revuelto
-Lamborghini Revuelto
-Buy Lamborghini Revuelto
+  <h2>Lamborghini Revuelto</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Lamborghini_Revuelto.jpg" alt="Lamborghini Revuelto" width="500">
+  <p><a href="https://www.lamborghini.com/en-en/models/revuelto" target="_blank">Buy Lamborghini Revuelto</a></p>
 
-© 2025 Lamborghini. All rights reserved. Visit the official website for more details.
+  <footer>
+    <p>&copy; 2025 Lamborghini. All rights reserved. Visit the <a href="https://www.lamborghini.com/en-en" target="_blank">official website</a> for more details.</p>
+  </footer>
+</body>
+</html>
