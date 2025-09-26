@@ -1,8 +1,6 @@
  # 📌 Profile Adder - Simple HTML & CSS Profile Page
 
 Welcome to **Profile Adder**! This project allows users to easily add their profiles using a simple **HTML & CSS** setup. Customize your profile, style it, and showcase it effortlessly.
-
-
 ---
 
 ## 📂 Project Structure
