@@ -15,7 +15,7 @@ Welcome to **Profile Adder**! This project allows users to easily add their prof
 
 
 ## ⚡ Features
-✅ Simple and lightweight HTML & CSS structure  
+✅ Simple and lightweight HTML & CSS structure     
 ✅ Easy to edit and add your own profile details  
 ✅ Responsive design for different screen sizes  
 ✅ No JavaScript required!  
